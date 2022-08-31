@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SaintmarysJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Saint Mary's Street" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8755389.213998232036829, 4271582.328674017451704 ], [ -8755405.596807962283492, 4271675.164595815353096 ], [ -8755428.220688063651323, 4271798.425735682249069 ], [ -8755446.163765385746956, 4271889.701389887370169 ], [ -8755481.269786234945059, 4271956.012762600556016 ] ] ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ParkingJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Parking1" }, "geometry": { "type": "Point", "coordinates": [ -78.652518886364788, 35.79159582809303 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "Parking2" }, "geometry": { "type": "Point", "coordinates": [ -78.651691483018269, 35.789362304502411 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "Parking3" }, "geometry": { "type": "Point", "coordinates": [ -78.653007189979121, 35.789279783955486 ] } }
+]
+}

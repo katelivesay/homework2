@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "FlagpoleJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -8755542.120222369208932, 4271713.781218750402331 ] } }
+]
+}
