@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "PstreetJSONNN",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 1, "Name": "West Peace Street" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -8755836.935300674289465, 4271571.582960109226406 ], [ -8755632.338921109214425, 4271577.622705631889403 ], [ -8755393.014004789292812, 4271583.662451153621078 ] ] ] } }
-]
-}

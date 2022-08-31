@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "TenniscourtsJSON",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
-"features": [
-{ "type": "Feature", "properties": { "id": null, "Tennis": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -8755685.94166261702776, 4271796.185996717773378 ], [ -8755627.809111965820193, 4271797.695933097973466 ], [ -8755625.544207395985723, 4271707.854718455113471 ], [ -8755684.431726237758994, 4271705.589813884347677 ], [ -8755685.94166261702776, 4271796.185996717773378 ] ] ] ] } }
-]
-}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "2saintmarysrd",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Saint Mary's Street" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.650999493498148, 35.788675914323292 ], [ -78.651146662781926, 35.789352402041303 ], [ -78.651349896554734, 35.790250586919875 ], [ -78.651511081960763, 35.790915691965466 ], [ -78.651826444711688, 35.791398884447766 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "2tenniscourts",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Tennis": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -78.653665043459526, 35.790234266378704 ], [ -78.653142829871982, 35.790245268991093 ], [ -78.653122483888055, 35.789590610902444 ], [ -78.653651479470255, 35.789574106847326 ], [ -78.653665043459526, 35.790234266378704 ] ] ] ] } }
+]
+}
